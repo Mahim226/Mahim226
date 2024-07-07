@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammed Mahim / @Mahim226
-- 👀 I’m interested in ... making beautiful and mordern website
+- 👀 I’m interested in ... making beautiful and mordern websites
 - 🌱 I’m currently learning ... react.js
 - 📫 Reach me ... mahim22.6@gmail.com
 - 😄 Pronouns: ... He/Him
